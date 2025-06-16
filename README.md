@@ -1,5 +1,1 @@
-# Java-basic-revision
-
-# Why to learn java
-Java is widely used and popular language.      
-widely usage in web apps,mobile apps,enterprise software, backend.
+# Java-basic-revison.
